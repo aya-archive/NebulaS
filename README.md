@@ -1,2 +1,2 @@
 # NebulaStore
-an E-Commerce application using Java, Spring Boot and PostgreSQL
+Application using Java, Spring Boot and PostgreSQL
